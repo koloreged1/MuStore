@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "musio",
+      "name": "Musio",
+      "packageName": "com.musio.app",
+      "repository": "koloreged1/Musio",
+      "description": "Musio — установка и обновления из GitHub Releases.",
+      "category": "Приложения",
+      "featured": true
+    },
+    {
+      "id": "mony",
+      "name": "Mony",
+      "packageName": "app.wallvert.wallet",
+      "repository": "koloreged1/Mony",
+      "description": "Mony — установка и обновления из GitHub Releases.",
+      "category": "Приложения",
+      "featured": false
+    }
+  ]
+}
